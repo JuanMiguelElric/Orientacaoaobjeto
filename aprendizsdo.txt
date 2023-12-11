@@ -1,0 +1,9 @@
+paradgma é um conjunto de regras que visa solucionar um problema
+
+Orientação a objetos se baseia em classes e objetos
+
+Abstrair um ibjeto do mundo real para um contexto especifico
+considerando apenas os atributos importantes
+
+Encapsulamento serve para protger uma classe e definir limites para alterações
+de uma classe

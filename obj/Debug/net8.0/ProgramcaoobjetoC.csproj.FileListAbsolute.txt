@@ -1,0 +1,15 @@
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\bin\Debug\net8.0\ProgramcaoobjetoC.exe
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\bin\Debug\net8.0\ProgramcaoobjetoC.deps.json
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\bin\Debug\net8.0\ProgramcaoobjetoC.runtimeconfig.json
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\bin\Debug\net8.0\ProgramcaoobjetoC.dll
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\bin\Debug\net8.0\ProgramcaoobjetoC.pdb
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.AssemblyInfoInputs.cache
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.AssemblyInfo.cs
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.sourcelink.json
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.dll
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\refint\ProgramcaoobjetoC.dll
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.pdb
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ProgramcaoobjetoC.genruntimeconfig.cache
+C:\Users\Juanc\Desenvolvimento\ProgramcaoobjetoC\obj\Debug\net8.0\ref\ProgramcaoobjetoC.dll
